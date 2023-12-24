@@ -17,5 +17,10 @@ nav {
   width: 300px;
 }
 
-.nav__links {
+.nav__link {
+  display: flex;
+}
+
+li {
+  list-style-type: none;
 }
