@@ -17,10 +17,10 @@ nav {
   width: 300px;
 }
 
-.nav__link {
+.nav__linkContainer {
   display: flex;
+  list-style-type: none;
 }
 
-li {
-  list-style-type: none;
+.nav__links {
 }
