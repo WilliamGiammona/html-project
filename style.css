@@ -37,4 +37,10 @@ header {
   height: calc(100vh - 70px);
   padding: 24px;
   display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+h1 {
+  font-size: 72px;
 }
