@@ -163,6 +163,7 @@ footer {
 .footer__links {
   display: flex;
   list-style-type: none;
+  margin-bottom: 32px;
 }
 
 .footer__link {
@@ -170,4 +171,5 @@ footer {
   color: black;
   font-size: 24px;
   font-weight: 700;
+  padding: 0 16px;
 }
