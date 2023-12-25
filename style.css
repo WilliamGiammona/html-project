@@ -184,6 +184,7 @@ footer {
     margin-bottom: 24px;
     display: flex;
     flex-direction: column;
+    align-items: center;
   }
 
   h1 {
@@ -194,5 +195,13 @@ footer {
   .subheader {
     text-align: center;
     font-size: 28px;
+  }
+
+  .home__description--button {
+    max-width: 240px;
+  }
+
+  .nav__linkContainer {
+    display: none;
   }
 }
